@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## 我的加密货币地址
 
-You can use the [editor on GitHub](https://github.com/jackispm/mybtc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+仅用以展示个人的加密货币地址，便于分发。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+其中，ETC具有通讯功能，可在ETC链上给我发送信息。
 
-### Markdown
+### Contact me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+jack@gieey.com
+
+
 
 ```markdown
-Syntax highlighted code block
+地址：
 
-# Header 1
-## Header 2
-### Header 3
+以下是我的加密货币地址：
+ETC:
+0xC2F40D62F11f0C516a38ad4668cA06F4A7F9A25B
+BTC:
+16zfcQ21koGAcZPWGDoFkFHCHggVrZocRN
+ETH:
+0xd2e5c66982668f9b80021d27438f89711bbbec17
+BCH:
+16zfcQ21koGAcZPWGDoFkFHCHggVrZocRN
+LTC:
+LXNjW1cHkKbt8xzxUsq9f9xcFu65JsXTzt
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jackispm/mybtc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
